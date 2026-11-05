@@ -1,0 +1,49 @@
+第一周学习资料包：验证记录
+
+验证范围：当前 Linux 容器；未验证你的个人电脑、Windows/WSL、GPU、SSH 服务器或 USB 设备。
+Python: 3.13.5
+OS: Linux x86_64
+psutil: 7.2.2
+pytest: 9.0.2
+
+一、自动化测试（实际执行）
+..........................................                               [100%]
+42 passed in 0.07s
+
+二、真实命令行运行（不依赖 mock）
+正常采样: PASS（退出码 0，符合预期 0）
+非法采样间隔: PASS（退出码 1，符合预期 1）
+磁盘路径不存在: PASS（退出码 1，符合预期 1）
+输出父路径是普通文件: PASS（退出码 1，符合预期 1）
+日志父路径是普通文件: PASS（退出码 1，符合预期 1）
+命令行类型错误: PASS（退出码 2，符合预期 2）
+输出与日志路径相同: PASS（退出码 1，符合预期 1）
+
+三、独立示例（实际执行）
+01_values.py: PASS
+02_functions.py: PASS
+03_json.py: PASS
+04_mechanisms.py: PASS
+05_first_monitor.py: PASS
+
+四、语法检查
+讲义 Python 代码块 26 个：语法通过。
+讲义 Shell 代码块 23 个：bash -n 语法通过。
+参考工程、示例、练习模板所有 .py：语法通过。
+注意：语法检查不等于每段代码均完成真实环境运行；带 sudo、系统配置、权限和 SSH 的命令没有在你的设备上执行。
+
+五、使用边界
+exercises/starter_rules.py 有意保留 NotImplementedError，供你独立完成，不是已经完成的参考答案。
+mock 测试验证指定分支，不等于真实硬件已覆盖；权限/进程退出故障由 mock 验证。
+CPU、内存和进程列表受采样时刻、容器或虚拟机可见范围影响。
+本项目是第一周教学参考，不是原子持久化、完整主机监控或生产高可用方案。
+
+六、文档检查
+PDF：37页；逐页检查了中文、代码、表格和分页；修订页再次渲染核对。
+PDF包含章节书签；HTML的16个章节导航均指向实际标题。
+HTML经过结构检查；当前环境未安装浏览器可执行文件，未完成浏览器截图验证。复制按钮若受浏览器权限限制，可手动选中代码复制。
+
+
+第09章路径勘误（v4）：
+原v3讲义直接从chapter_code/test_code_22.py运行测试时可能出现 ModuleNotFoundError: No module named 'monitor'。
+v4改为从lab/下运行student_examples/或tests/内的测试。参见START_HERE.md。

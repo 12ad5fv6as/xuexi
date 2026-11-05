@@ -1,0 +1,198 @@
+[
+  {
+    "section": "03.1",
+    "file": "03_01_basic_types.py",
+    "save": "scratch/03_01_basic_types.py",
+    "command": "python scratch/03_01_basic_types.py",
+    "source_path": "examples/complete/03_01_basic_types.py"
+  },
+  {
+    "section": "03.2",
+    "file": "03_02_alias.py",
+    "save": "scratch/03_02_alias.py",
+    "command": "python scratch/03_02_alias.py",
+    "source_path": "examples/complete/03_02_alias.py"
+  },
+  {
+    "section": "03.2",
+    "file": "03_02_dictionary.py",
+    "save": "scratch/03_02_dictionary.py",
+    "command": "python scratch/03_02_dictionary.py",
+    "source_path": "examples/complete/03_02_dictionary.py"
+  },
+  {
+    "section": "03.3",
+    "file": "03_03_conditions.py",
+    "save": "scratch/03_03_conditions.py",
+    "command": "python scratch/03_03_conditions.py",
+    "source_path": "examples/complete/03_03_conditions.py"
+  },
+  {
+    "section": "03.4",
+    "file": "03_04_utilization.py",
+    "save": "scratch/03_04_utilization.py",
+    "command": "python scratch/03_04_utilization.py",
+    "source_path": "examples/complete/03_04_utilization.py"
+  },
+  {
+    "section": "03.5",
+    "file": "03_05_defaults.py",
+    "save": "scratch/03_05_defaults.py",
+    "command": "python scratch/03_05_defaults.py",
+    "source_path": "examples/complete/03_05_defaults.py"
+  },
+  {
+    "section": "03.5",
+    "file": "03_05_mutable_defaults.py",
+    "save": "scratch/03_05_mutable_defaults.py",
+    "command": "python scratch/03_05_mutable_defaults.py",
+    "source_path": "examples/complete/03_05_mutable_defaults.py"
+  },
+  {
+    "section": "03.5",
+    "file": "03_05_scope.py",
+    "save": "scratch/03_05_scope.py",
+    "command": "python scratch/03_05_scope.py",
+    "source_path": "examples/complete/03_05_scope.py"
+  },
+  {
+    "section": "03.6",
+    "file": "03_06_annotations.py",
+    "save": "scratch/03_06_annotations.py",
+    "command": "python scratch/03_06_annotations.py",
+    "source_path": "examples/complete/03_06_annotations.py"
+  },
+  {
+    "section": "03.7",
+    "file": "03_07_sorting.py",
+    "save": "scratch/03_07_sorting.py",
+    "command": "python scratch/03_07_sorting.py",
+    "source_path": "examples/complete/03_07_sorting.py"
+  },
+  {
+    "section": "04.1",
+    "file": "04_01_paths.py",
+    "save": "scratch/04_01_paths.py",
+    "command": "python scratch/04_01_paths.py",
+    "source_path": "examples/complete/04_01_paths.py"
+  },
+  {
+    "section": "04.2",
+    "file": "04_02_utf8.py",
+    "save": "scratch/04_02_utf8.py",
+    "command": "python scratch/04_02_utf8.py",
+    "source_path": "examples/complete/04_02_utf8.py"
+  },
+  {
+    "section": "04.4",
+    "file": "04_04_json_types.py",
+    "save": "scratch/04_04_json_types.py",
+    "command": "python scratch/04_04_json_types.py",
+    "source_path": "examples/complete/04_04_json_types.py"
+  },
+  {
+    "section": "04.5",
+    "file": "04_05_json_round_trip.py",
+    "save": "scratch/04_05_json_round_trip.py",
+    "command": "python scratch/04_05_json_round_trip.py",
+    "source_path": "examples/complete/04_05_json_round_trip.py"
+  },
+  {
+    "section": "05.3",
+    "file": "05_03_main.py",
+    "save": "scratch/05_03_main.py",
+    "command": "python scratch/05_03_main.py",
+    "source_path": "examples/complete/05_03_main.py"
+  },
+  {
+    "section": "05.4",
+    "file": "05_04_class.py",
+    "save": "scratch/05_04_class.py",
+    "command": "python scratch/05_04_class.py",
+    "source_path": "examples/complete/05_04_class.py"
+  },
+  {
+    "section": "06.2",
+    "file": "06_02_exception.py",
+    "save": "scratch/06_02_exception.py",
+    "command": "python scratch/06_02_exception.py",
+    "source_path": "examples/complete/06_02_exception.py"
+  },
+  {
+    "section": "06.4",
+    "file": "06_04_logging.py",
+    "save": "scratch/06_04_logging.py",
+    "command": "python scratch/06_04_logging.py",
+    "source_path": "examples/complete/06_04_logging.py"
+  },
+  {
+    "section": "07.4",
+    "file": "07_04_cpu.py",
+    "save": "scratch/07_04_cpu.py",
+    "command": "python scratch/07_04_cpu.py",
+    "source_path": "examples/complete/07_04_cpu.py"
+  },
+  {
+    "section": "07.5",
+    "file": "07_05_memory.py",
+    "save": "scratch/07_05_memory.py",
+    "command": "python scratch/07_05_memory.py",
+    "source_path": "examples/complete/07_05_memory.py"
+  },
+  {
+    "section": "08.1",
+    "file": "08_01_generator.py",
+    "save": "scratch/08_01_generator.py",
+    "command": "python scratch/08_01_generator.py",
+    "source_path": "examples/complete/08_01_generator.py"
+  },
+  {
+    "section": "08.2",
+    "file": "08_02_decorator.py",
+    "save": "scratch/08_02_decorator.py",
+    "command": "python scratch/08_02_decorator.py",
+    "source_path": "examples/complete/08_02_decorator.py"
+  },
+  {
+    "section": "08.3",
+    "file": "08_03_context_manager.py",
+    "save": "scratch/08_03_context_manager.py",
+    "command": "python scratch/08_03_context_manager.py",
+    "source_path": "examples/complete/08_03_context_manager.py"
+  },
+  {
+    "section": "09.3",
+    "file": "test_09_03_boundary.py",
+    "save": "student_examples/test_09_03_boundary.py",
+    "command": "python -m pytest student_examples/test_09_03_boundary.py -q",
+    "source_path": "lab/student_examples/test_09_03_boundary.py"
+  },
+  {
+    "section": "09.4",
+    "file": "test_09_04_parameters.py",
+    "save": "student_examples/test_09_04_parameters.py",
+    "command": "python -m pytest student_examples/test_09_04_parameters.py -q",
+    "source_path": "lab/student_examples/test_09_04_parameters.py"
+  },
+  {
+    "section": "09.5",
+    "file": "test_09_05_tmp_path.py",
+    "save": "student_examples/test_09_05_tmp_path.py",
+    "command": "python -m pytest student_examples/test_09_05_tmp_path.py -q",
+    "source_path": "lab/student_examples/test_09_05_tmp_path.py"
+  },
+  {
+    "section": "09.6",
+    "file": "test_09_06_monkeypatch.py",
+    "save": "student_examples/test_09_06_monkeypatch.py",
+    "command": "python -m pytest student_examples/test_09_06_monkeypatch.py -q",
+    "source_path": "lab/student_examples/test_09_06_monkeypatch.py"
+  },
+  {
+    "section": "11.2",
+    "file": "11_02_first_monitor.py",
+    "save": "first_monitor.py",
+    "command": "python first_monitor.py",
+    "source_path": "examples/complete/11_02_first_monitor.py"
+  }
+]

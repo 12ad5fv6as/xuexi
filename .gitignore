@@ -1,0 +1,21 @@
+# Python虚拟环境
+.venv/
+venv/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# pytest缓存
+.pytest_cache/
+
+# 环境配置及敏感信息
+.env
+.env.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
